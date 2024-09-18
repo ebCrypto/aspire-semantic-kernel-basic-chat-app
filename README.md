@@ -30,7 +30,7 @@ For more information on local provisioning of Aspire applications, refer to the 
 ## Resources
 
 - [Aspire Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/)
-- [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/semantic-kernel/)
+- [Semantic Kernel Documentation](https://learn.microsoft.com/en-us/dotnet/ai/semantic-kernel/)
 - [Chat Protocol Documentation](https://learn.microsoft.com/en-us/dotnet/aspire/ai-chat-protocol/)
 
 ## License
